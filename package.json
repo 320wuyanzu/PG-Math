@@ -4,12 +4,8 @@
     "dbuild": "vuepress build docs"
   },
   "devDependencies": {
+    "@iktakahiro/markdown-it-katex": "^3.0.4",
     "markdown-it": "^8.4.2",
-    "markdown-it-katex": "^2.0.3",
-    "markdown-it-math": "^4.1.0",
-    "markdown-it-mathjax": "^2.0.0",
-    "math": "^0.0.3",
-    "mathml": "^1.0.1",
     "vuepress": "^0.14.2"
   }
 }

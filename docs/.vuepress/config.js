@@ -1,6 +1,11 @@
 module.exports = {
     head: [
         ['link', { rel: 'stylesheet', href: '/katex.min.css' }]
+        //['script', {src: '/katex.min.js'}],
+        //['script', {src: '/auto-render.min.js'}],
+        //['link', {rel: 'stylesheet', href: '/contrib/copy-tex.min.css'}],
+        //['script', {src: '/contrib/copy-tex.min.js'}],
+        //['script', {src: '/contrib/mathtex-script-type.min.js'}]
     ],
     base: '/PG-Math/',
     title: '数学二(302)考研复习笔记',
@@ -16,7 +21,7 @@ module.exports = {
     },
     markdown: {
         config: md=>{
-            md.use(require('markdown-it-katex'));
+            md.use(require('@iktakahiro/markdown-it-katex'));
         }
     }
 }
