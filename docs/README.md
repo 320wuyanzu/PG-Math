@@ -4,6 +4,12 @@ next: /1/
 
 # 数学二(302)考试大纲
 
+[Powered By](/#)
+
+- [`VuePress`](https://vuepress.vuejs.org/zh/)
+- [`Katex`](https://katex.org/)
+- [`@iktakahiro/markdown-it-katex`](https://github.com/iktakahiro/markdown-it-katex)
+
 ```log
 命题方式：全国统一命题
 考试方式：闭卷
