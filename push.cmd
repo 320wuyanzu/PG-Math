@@ -11,5 +11,5 @@ git push -f git@github.com:320wuyanzu/PG-Math.git master:gh-pages
 :: 再push源文档
 cd ../../../
 git add *
-git commit -m"重构目录"
+git commit -m"加入Badge"
 git push -f git@github.com:320wuyanzu/PG-Math.git master:master
