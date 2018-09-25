@@ -2,7 +2,7 @@ module.exports = {
     head: [
         ['link', { rel: 'stylesheet', href: '/katex.min.css' }]
         //['script', {src: '/katex.min.js'}],
-        //['script', {src: '/auto-render.min.js'}],
+        //['script', {src: '/auto-render.min.js'}]
         //['link', {rel: 'stylesheet', href: '/contrib/copy-tex.min.css'}],
         //['script', {src: '/contrib/copy-tex.min.js'}],
         //['script', {src: '/contrib/mathtex-script-type.min.js'}]
@@ -40,7 +40,7 @@ module.exports = {
 function sidebar_group() {
     let C1 = {
         title: '一、函数，极限，连续',
-        children: [ /*'/1/',*/ '/1/1', '/1/2', '/1/3', '/1/4', '/1/5', '/1/6', '/1/7', '/1/8', '/1/9', '/1/10', '/1/11', '/1/12', '/1/13', '/1/14', '/1/15', '/1/16']
+        children: [ /*'/1/',*/ '/1/1', '/1/2', '/1/3', '/1/4', '/1/5', '/1/6', '/1/7', '/1/8', '/1/9', '/1/10', '/1/11', '/1/12', '/1/13', '/1/14', '/1/15', '/1/16', '/1/exc']
     };
     let C2 = {
         title: '二、一元函数微分学',
