@@ -4,17 +4,17 @@
 
 **求极限**：
 
-1. $\lim\limits_{x \to 2}{\frac{x^2+5}{x-3}}$
+1. $\lim\limits_{x \to 2}{\frac{x^2+5}{x-3}}=-9$
 
-2. $\lim\limits_{x \to \sqrt{3}}{\frac{x^2-3}{x^2+1}}$
+2. $\lim\limits_{x \to \sqrt{3}}{\frac{x^2-3}{x^2+1}}=0$
 
-3. $\lim\limits_{x \to 1}{\frac{x^2-2x+1}{x^2-1}}$
+3. $\lim\limits_{x \to 1}{\frac{x^2-2x+1}{x^2-1}}=0$
 
-4. $\lim\limits_{x \to 0}{\frac{4x^3-2x^2+x}{3x^2+2x}}$
+4. $\lim\limits_{x \to 0}{\frac{4x^3-2x^2+x}{3x^2+2x}}=\frac{1}{2}$
 
-5. $\lim\limits_{h \to 0}{\frac{(x+h)^2-x^2}{h}}$
+5. $\lim\limits_{h \to 0}{\frac{(x+h)^2-x^2}{h}}=2x$
 
-6. $\lim\limits_{x \to \infty}{(2-\frac{1}{x}+\frac{1}{x^2})}$
+6. $\lim\limits_{x \to \infty}{(2-\frac{1}{x}+\frac{1}{x^2})}=2$
 
 7. $\lim\limits_{x \to \infty}{\frac{x^2-1}{2x^2-x-1}}$
 

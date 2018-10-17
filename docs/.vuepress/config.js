@@ -14,18 +14,7 @@ module.exports = {
         lastUpdated: '最后一次更新',
         nav: [
             { text: 'Personal Homepage', link: 'https://320wuyanzu.github.io' },
-            { text: '考纲目录', link: '/' },
-            { text: '函数、极限、连续', link: '/1/' },
-            { text: '一元函数微分学', link: '/2/' },
-            { text: '一元函数积分学', link: '/3/' },
-            { text: '多元函数微积分学', link: '/4/' },
-            { text: '常微分方程', link: '/5/' },
-            { text: '行列式', link: '/6/' },
-            { text: '矩阵', link: '/7/' },
-            { text: '向量', link: '/8/' },
-            { text: '线性方程组', link: '/9/' },
-            { text: '矩阵的特征值和特征向量', link: '/10/' },
-            { text: '二次型', link: '/11/' }
+            { text: '考纲目录', link: '/' }
         ],
         sidebarDepth: 2,
         sidebar: sidebar_group()
