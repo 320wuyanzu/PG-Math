@@ -11,7 +11,7 @@ module.exports = {
     title: '数学二(302)考研复习笔记',
     description: '',
     themeConfig: {
-        lastUpdated: '最后一次更新',
+        lastUpdated: '上一次编辑',
         nav: [
             { text: 'Personal Homepage', link: 'https://320wuyanzu.github.io' },
             { text: '考纲目录', link: '/' }
