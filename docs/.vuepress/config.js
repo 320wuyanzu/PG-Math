@@ -14,7 +14,8 @@ module.exports = {
         lastUpdated: '上一次编辑',
         nav: [
             { text: 'Personal Homepage', link: 'https://320wuyanzu.github.io' },
-            { text: '考纲目录', link: '/' }
+            { text: '考纲目录', link: '/' },
+            { text: '常用公式集', link: '/formula'}
         ],
         sidebarDepth: 2,
         sidebar: sidebar_group()
