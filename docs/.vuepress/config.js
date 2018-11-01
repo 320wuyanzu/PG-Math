@@ -15,7 +15,7 @@ module.exports = {
         nav: [
             { text: 'Personal Homepage', link: 'https://320wuyanzu.github.io' },
             { text: '考纲目录', link: '/' },
-            { text: '常用公式集', link: '/formula'}
+            { text: '常用公式集', link: '/formula' }
         ],
         sidebarDepth: 2,
         sidebar: sidebar_group()
@@ -30,11 +30,11 @@ module.exports = {
 function sidebar_group() {
     let C1 = {
         title: '一、函数与极限',
-        children: [ /*'/1/',*/ '/1/1', '/1/2', '/1/3', '/1/4', '/1/5', '/1/6', '/1/7', '/1/8', '/1/exc']
+        children: ['/1/', '/1/1', '/1/2', '/1/3', '/1/4', '/1/5', '/1/6', '/1/7', '/1/8', '/1/exc']
     };
     let C2 = {
         title: '二、导数与微分',
-        children: ['/2/']
+        children: ['/2/', '/2/1']
     };
     let C3 = {
         title: '三、微分中值定理与导数的应用',

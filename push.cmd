@@ -11,5 +11,5 @@ git push -f git@github.com:320wuyanzu/PG-Math.git master:gh-pages
 :: 再push源文档
 cd ../../../
 git add *
-git commit -m"第一章应该是完美了，还差练习题"
+git commit -m"第二章开了个头"
 git push -f git@github.com:320wuyanzu/PG-Math.git master:master
