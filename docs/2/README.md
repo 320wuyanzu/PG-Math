@@ -1,4 +1,4 @@
-# 二、一元函数微分学 <Badge text="TODO" type="error"/>
+# 二、第二章考点 <Badge text="TODO" type="error"/>
 
 > **考试内容**
 - 导数和微分的概念
