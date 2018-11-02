@@ -1,7 +1,7 @@
 ---
 next: ./1
 ---
-# 第一章考点 <Badge text="Done"/>
+# 考点Part-1 <Badge text="Done"/>
 
 > **考试内容**
 - 函数的概念及表示法

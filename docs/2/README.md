@@ -1,4 +1,4 @@
-# 二、第二章考点 <Badge text="TODO" type="error"/>
+# 考点Part-2 <Badge text="TODO" type="error"/>
 
 > **考试内容**
 - 导数和微分的概念
