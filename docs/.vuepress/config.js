@@ -72,20 +72,9 @@ function sidebar_group() {
         title: '十一、二次型',
         children: ['/11/']
     };
-    return [C1, C2, C3, C4, C5, C6, C7, C8, C9, C10, C11];
-}
-
-function sidebar_divide() {
-    return {
-        '/1/': [''],
-        '/2/': [''],
-        '/3/': [''],
-        '/4/': [''],
-        '/5/': [''],
-        '/6/': [''],
-        '/7/': [''],
-        '/8/': [''],
-        '/9/': [''],
-        '/': ['']
-    }
+    let C12 = {
+        title: '附录：常用公式集',
+        children: ['/formula']
+    };
+    return [C1, C2, C3, C4, C5, C6, C7, C8, C9, C10, C11, C12];
 }
