@@ -30,7 +30,7 @@ module.exports = {
 function sidebar_group() {
     let C1 = {
         title: '一、函数、极限、连续',
-        children: ['/1/', '/1/1', '/1/2', '/1/3', '/1/4', '/1/5', '/1/6', '/1/exc']
+        children: ['/1/', '/1/summary' /* '/1/1', '/1/2', '/1/3', '/1/4', '/1/5', '/1/6', '/1/exc'*/ ]
     };
     let C2 = {
         title: '二、导数与微分',
