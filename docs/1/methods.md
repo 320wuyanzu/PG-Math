@@ -142,3 +142,7 @@ $$\Large \lim{f(x)} = A \Longleftrightarrow f(x) = A + \alpha$$
 > 又称柯西审敛原理
 >
 > 数列 $\{x_n\}$ 收敛 $\Longleftrightarrow$ 对于任意给定的正数 $\epsilon$，存在正整数 $N$，使得当 $m > N, n > N$ 时，有 $|x_n - x_m| < \epsilon$
+
+## 网上找的：
+
+![极限](./极限.jpg)

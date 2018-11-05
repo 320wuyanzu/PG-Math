@@ -33,19 +33,19 @@ function sidebar_group() {
         children: ['/1/', '/1/summary','/1/methods' /* '/1/1', '/1/2', '/1/3', '/1/4', '/1/5', '/1/6', '/1/exc'*/ ]
     };
     let C2 = {
-        title: '二、导数与微分',
+        title: '二、一元函数微分学',
         children: ['/2/', '/2/1']
     };
     let C3 = {
-        title: '三、微分中值定理与导数的应用',
+        title: '三、一元函数积分学',
         children: ['/3/']
     };
     let C4 = {
-        title: '四、不定积分',
+        title: '四、多元函数微积分',
         children: ['/4/']
     };
     let C5 = {
-        title: '五、定积分',
+        title: '五、常微分方程',
         children: ['/5/']
     };
     let C6 = {
