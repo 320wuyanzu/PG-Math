@@ -145,4 +145,4 @@ $$\Large \lim{f(x)} = A \Longleftrightarrow f(x) = A + \alpha$$
 
 ## 网上找的：
 
-![极限](./极限.jpg)
+![极限](./limit.jpg)
