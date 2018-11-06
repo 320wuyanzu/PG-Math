@@ -34,7 +34,7 @@ function sidebar_group() {
     };
     let C2 = {
         title: '二、一元函数微分学',
-        children: ['/2/', '/2/1']
+        children: ['/2/', '/2/summary','/2/methods']
     };
     let C3 = {
         title: '三、一元函数积分学',
